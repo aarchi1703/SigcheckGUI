@@ -21,7 +21,7 @@ SigcheckGUI — это графический интерфейс для утил
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/aarchi1703/SigWPF.git
+   git@github.com:aarchi1703/SigcheckGUI.git
    ```
 2. Откройте решение в Visual Studio и соберите проект.
 
